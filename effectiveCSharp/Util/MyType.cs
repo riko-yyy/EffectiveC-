@@ -6,5 +6,10 @@ namespace effectiveCSharp.Util
         public MyType()
         {
         }
+
+        public string MyMethodUpdate()
+        {
+            return default(string);
+        }
     }
 }

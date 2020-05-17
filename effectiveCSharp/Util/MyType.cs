@@ -11,5 +11,10 @@ namespace effectiveCSharp.Util
         {
             return default(string);
         }
+
+        public void MagicMethod()
+        {
+            Console.WriteLine("aaaaaaaaaaaaaaaaaaaa");
+        }
     }
 }

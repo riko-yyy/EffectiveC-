@@ -7,5 +7,7 @@
 
   <ItemGroup>
     <Folder Include="Util\" />
+    <Folder Include="ConsoleExtension\" />
+    <Folder Include="XmlExtension\" />
   </ItemGroup>
 </Project>
